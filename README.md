@@ -4,9 +4,9 @@
  
  ## Funcionalidades 
  
- -Número aleatório gerado automaticamente 
- -Dicas após cada palpite (maior/menor) 
- -Contagem de tentativas -Mensagem de vitória/derrota ao final 
+  -Número aleatório gerado automaticamente 
+  -Dicas após cada palpite (maior/menor) 
+  -Contagem de tentativas -Mensagem de vitória/derrota ao final 
  
  ## Tecnologias 
  -Python 3.12
